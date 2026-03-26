@@ -6,7 +6,7 @@
     "rating": 9.8,
     "batStyle": "Right-hand bat",
     "bowlingStyle": "None",
-    "price": 220000,
+    "price": 3000,
     "img": "https://i.ibb.co.com/5WgHFk37/Getty-Images-2186593184.jpg"
   },
   {
@@ -16,7 +16,7 @@
     "rating": 9.6,
     "batStyle": "Right-hand bat",
     "bowlingStyle": "Off-spin (part-time)",
-    "price": 210000,
+    "price": 2900,
     "img": "https://example.com/players/rohit.png"
   },
   {
@@ -26,7 +26,7 @@
     "rating": 9.7,
     "batStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm fast",
-    "price": 215000,
+    "price": 2950,
     "img": "https://example.com/players/bumrah.png"
   },
   {
@@ -36,7 +36,7 @@
     "rating": 9.4,
     "batStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm fast-medium",
-    "price": 205000,
+    "price": 2800,
     "img": "https://example.com/players/pandya.png"
   },
   {
@@ -46,7 +46,7 @@
     "rating": 9.7,
     "batStyle": "Right-hand bat",
     "bowlingStyle": "None",
-    "price": 215000,
+    "price": 2950,
     "img": "https://example.com/players/babar.png"
   },
   {
@@ -56,7 +56,7 @@
     "rating": 9.5,
     "batStyle": "Right-hand bat",
     "bowlingStyle": "None",
-    "price": 200000,
+    "price": 2750,
     "img": "https://example.com/players/rizwan.png"
   },
   {
@@ -66,7 +66,7 @@
     "rating": 8.9,
     "batStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm fast",
-    "price": 165000,
+    "price": 2300,
     "img": "https://example.com/players/rauf.png"
   },
   {
@@ -76,7 +76,7 @@
     "rating": 9.8,
     "batStyle": "Left-hand bat",
     "bowlingStyle": "Right-arm fast-medium",
-    "price": 220000,
+    "price": 3000,
     "img": "https://example.com/players/stokes.png"
   },
   {
@@ -86,7 +86,7 @@
     "rating": 9.6,
     "batStyle": "Right-hand bat",
     "bowlingStyle": "None",
-    "price": 210000,
+    "price": 2900,
     "img": "https://example.com/players/buttler.png"
   },
   {
@@ -96,7 +96,7 @@
     "rating": 9.2,
     "batStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm fast",
-    "price": 185000,
+    "price": 2550,
     "img": "https://example.com/players/archer.png"
   },
   {
@@ -106,7 +106,7 @@
     "rating": 9.4,
     "batStyle": "Right-hand bat",
     "bowlingStyle": "Leg-spin (part-time)",
-    "price": 195000,
+    "price": 2650,
     "img": "https://example.com/players/smith.png"
   },
   {
@@ -116,7 +116,7 @@
     "rating": 9.3,
     "batStyle": "Left-hand bat",
     "bowlingStyle": "None",
-    "price": 190000,
+    "price": 2600,
     "img": "https://example.com/players/warner.png"
   },
   {
@@ -126,7 +126,7 @@
     "rating": 9.5,
     "batStyle": "Right-hand bat",
     "bowlingStyle": "Off-spin",
-    "price": 205000,
+    "price": 2800,
     "img": "https://example.com/players/maxwell.png"
   },
   {
@@ -136,7 +136,7 @@
     "rating": 9.4,
     "batStyle": "Left-hand bat",
     "bowlingStyle": "Left-arm fast",
-    "price": 200000,
+    "price": 2750,
     "img": "https://example.com/players/starc.png"
   },
   {
@@ -146,7 +146,7 @@
     "rating": 9.2,
     "batStyle": "Right-hand bat",
     "bowlingStyle": "Off-spin (part-time)",
-    "price": 185000,
+    "price": 2550,
     "img": "https://example.com/players/williamson.png"
   },
   {
@@ -156,7 +156,7 @@
     "rating": 9.3,
     "batStyle": "Right-hand bat",
     "bowlingStyle": "Left-arm fast-medium",
-    "price": 190000,
+    "price": 2600,
     "img": "https://example.com/players/boult.png"
   },
   {
@@ -166,7 +166,7 @@
     "rating": 9.1,
     "batStyle": "Left-hand bat",
     "bowlingStyle": "None",
-    "price": 180000,
+    "price": 2500,
     "img": "https://example.com/players/pooran.png"
   },
   {
@@ -176,7 +176,7 @@
     "rating": 9.0,
     "batStyle": "Left-hand bat",
     "bowlingStyle": "Off-spin",
-    "price": 175000,
+    "price": 2450,
     "img": "https://example.com/players/narine.png"
   },
   {
@@ -186,7 +186,7 @@
     "rating": 9.5,
     "batStyle": "Left-hand bat",
     "bowlingStyle": "Slow left-arm orthodox",
-    "price": 180000,
+    "price": 2500,
     "img": "https://example.com/players/shakib.png"
   },
   {
@@ -196,7 +196,7 @@
     "rating": 9.0,
     "batStyle": "Left-hand bat",
     "bowlingStyle": "None",
-    "price": 150000,
+    "price": 2100,
     "img": "https://example.com/players/tamim.png"
   },
   {
@@ -206,7 +206,7 @@
     "rating": 8.8,
     "batStyle": "Right-hand bat",
     "bowlingStyle": "None",
-    "price": 140000,
+    "price": 2000,
     "img": "https://example.com/players/mushfiq.png"
   },
   {
@@ -216,7 +216,7 @@
     "rating": 8.7,
     "batStyle": "Right-hand bat",
     "bowlingStyle": "Off-spin",
-    "price": 135000,
+    "price": 1950,
     "img": "https://example.com/players/mahmudullah.png"
   },
   {
@@ -226,7 +226,7 @@
     "rating": 9.2,
     "batStyle": "Left-hand bat",
     "bowlingStyle": "Left-arm fast-medium",
-    "price": 160000,
+    "price": 2300,
     "img": "https://example.com/players/mustafiz.png"
   },
   {
@@ -236,7 +236,7 @@
     "rating": 9.7,
     "batStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm fast",
-    "price": 210000,
+    "price": 2900,
     "img": "https://example.com/players/russell.png"
   },
   {
@@ -246,7 +246,7 @@
     "rating": 8.9,
     "batStyle": "Right-hand bat",
     "bowlingStyle": "Leg-spin (part-time)",
-    "price": 145000,
+    "price": 2050,
     "img": "https://example.com/players/faf.png"
   },
   {
@@ -256,7 +256,7 @@
     "rating": 9.1,
     "batStyle": "Left-hand bat",
     "bowlingStyle": "None",
-    "price": 155000,
+    "price": 2150,
     "img": "https://example.com/players/dekock.png"
   },
   {
@@ -266,7 +266,7 @@
     "rating": 9.3,
     "batStyle": "Left-hand bat",
     "bowlingStyle": "Left-arm fast",
-    "price": 170000,
+    "price": 2400,
     "img": "https://example.com/players/shaheen.png"
   }
 ]

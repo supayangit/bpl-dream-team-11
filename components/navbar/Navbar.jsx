@@ -1,7 +1,7 @@
 import React from 'react';
 import CoinImg from '../../src/assets/DoubleDollar.png'
 
-const Navbar = () => {
+const Navbar = ({coin}) => {
     return (
         <div>
 
@@ -10,9 +10,9 @@ const Navbar = () => {
                     <a className="btn btn-ghost text-xl">daisyUI</a>
                 </div>
                 <div className="flex-none">
-                    <button className="flex justify-between gap-2 font-semibold">
-                        0 Coin
-                        <img src={CoinImg} alt="" />
+                    <button className="flex justify-between gap-2 font-bold">
+                        {coin} Coins
+                        <img src={CoinImg} alt="" className='w-5 h-5' />
                     </button>
                 </div>
             </div>
