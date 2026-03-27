@@ -5,13 +5,18 @@ import Selectedplayers from '../../selectedplayers/Selectedplayers'
 const Players = ({ playersPromise, setCoin, coin}) => {
     const players = use(playersPromise);
     const [selectedType, setSelectedType] = useState("available");
+    const [selectedPlayers, setSelectedPlayers] = useState([]);
 
 
     return (
         <div className='container mt-10 mx-auto space-y-4'>
 
             <div className='flex justify-between gap-4 items-center'>
-                {selectedType === "available" ? <h2 className='font-bold text-3xl'>Available Players</h2> : <h2 className='font-bold text-3xl'>Selected Players</h2>}
+                {
+                selectedType === "available" ?
+                <h2 className='font-bold text-3xl'>Available Players ({players.length})</h2>
+                :<h2 className='font-bold text-3xl'>Selected Players ({selectedPlayers.length}/{players.length})</h2>
+                }
                 <div className='flex gap-4'>
                     <button
                     onClick={()=>setSelectedType("available")}
@@ -22,7 +27,9 @@ const Players = ({ playersPromise, setCoin, coin}) => {
                 </div>
             </div>
 
-            {selectedType === "available" ? <Availableplayers players={players} setCoin={setCoin} coin={coin}></Availableplayers> : <Selectedplayers players={players}></Selectedplayers>}
+            {selectedType === "available" ?
+            <Availableplayers players={players} setCoin={setCoin} coin={coin} setSelectedPlayers={setSelectedPlayers} selectedPlayers={selectedPlayers}></Availableplayers> :
+            <Selectedplayers players={players} selectedPlayers={selectedPlayers} setSelectedPlayers={setSelectedPlayers} setCoin={setCoin} coin={coin}></Selectedplayers>}
             
         </div>
     );
